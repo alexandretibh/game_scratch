@@ -1,6 +1,6 @@
 # Projeto Scratch – Jogo Avião
 
-![Captura de Tela do Jogo](screenshot.png)
+![Captura de Tela do Jogo](transferir.png)
 
 ## Descrição
 Um jogo desenvolvido no Scratch onde o jogador controla uma nave que deve acertar um alienígena verde em movimento. Cada acerto concede 1 ponto.
